@@ -59,8 +59,8 @@ Aplikasi pembelajaran daring berbasis web dan mobile dengan fitur:
 ### **🔧 Instalasi**
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/username/repo.git
-   cd repo/frontend
+   git clone
+   cd frontend
    ```
 2. **Install Dependensi**
    ```bash
